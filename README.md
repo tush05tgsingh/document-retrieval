@@ -1,8 +1,8 @@
-# document-retrieval
-##Using Topic-Based Query Paraphrasing to improve document retrieval in Learning to Rank Model
+# Document-Retrieval
+## Using Topic-Based Query Paraphrasing to improve document retrieval in Learning to Rank Model
 
 
-###ABSTRACT
+### ABSTRACT
 Query Reformulation is a popular information retrieval method
 to retrieve relevant documents from a huge corpus for a given
 search query. Query paraphrasing is one of the effective techniques
